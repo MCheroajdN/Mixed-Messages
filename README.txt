@@ -1,0 +1,1 @@
+Mixed Messages Project worked on during Codecademy Course. Without any hint and to use what I have learnt so far in Javascript. The program is to generate a new random message each time it is run and the message to display at least 3 different messages as outputs
